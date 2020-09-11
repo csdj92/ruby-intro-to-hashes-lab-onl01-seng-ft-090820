@@ -1,5 +1,5 @@
 def new_hash(array)
-  
+  array= hash.new
 
 end
 
